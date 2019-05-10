@@ -146,7 +146,7 @@ def team_names
     names
 end
 
-# def player_numbers(team)
+# def player_numbers(team_name)
 #     jerseys = []
 #     binding.pry
 #     teams.collect do |team_data|
