@@ -154,7 +154,7 @@ def player_numbers(team_name)
         binding.pry
           if v == team_name
           team[:players].collect do |person, info|
-            
+
             jerseys << info[:number]
 
 
