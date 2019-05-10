@@ -169,9 +169,9 @@ end
 #   game_hash.each do |location, team_stats|
 #     if team_stats[:team_name] == team_name
 #       team_stats[:players].each do |attribute, data|
-# 
+#
 #           nums.push data[:number]
-# 
+#
 #         end
 #       end
 #     end
