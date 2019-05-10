@@ -177,6 +177,7 @@ def player_numbers(team_name)
     end
     nums
 end 
+end
 
 def player_stats(player)
    name = find_the_players.fetch(player)
