@@ -151,7 +151,7 @@ end
 #     binding.pry
 #     teams.collect do |team_data|
 #      team_data.collect do |team, values|
-#           if values == team
+#           if values == team_name
 #           values.collect do |person, info|
 #
 #             jerseys << info[:number]
