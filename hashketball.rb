@@ -148,7 +148,7 @@ end
 
 def player_numbers(team_name)
     jerseys = []
-  
+
     teams.collect do |team_data|
      team_data.collect do |team, v|
           if v == team_name
