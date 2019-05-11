@@ -162,7 +162,7 @@ def player_numbers(team_name)
 end
 
 def player_stats(player)
-   name = find_the_players.fetch(player)
+    find_the_players.fetch(player)
 end
 
 def big_shoe_rebounds
